@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFdataBinding", "WPFdataBinding.csproj", "{3A3FA0FA-DEE2-4271-A428-1550772E0FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A3FA0FA-DEE2-4271-A428-1550772E0FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3FA0FA-DEE2-4271-A428-1550772E0FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3FA0FA-DEE2-4271-A428-1550772E0FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3FA0FA-DEE2-4271-A428-1550772E0FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036951B5-922C-4814-AAD7-597C566ADE9C}
+	EndGlobalSection
+EndGlobal
